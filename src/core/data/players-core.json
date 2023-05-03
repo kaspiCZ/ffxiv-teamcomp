@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Rexey",
+    "jobs": [
+      {
+        "job": "DRK",
+        "weight": 1
+      },
+      {
+        "job": "WAR",
+        "weight": 1
+      },
+      {
+        "job": "RPR",
+        "weight": 0.5
+      },
+      {
+        "job": "WHM",
+        "weight": 0.2
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Riti",
+    "jobs": [
+      {
+        "job": "DRK",
+        "weight": 0.5
+      },
+      {
+        "job": "GNB",
+        "weight": 1
+      },
+      {
+        "job": "PLD",
+        "weight": 1
+      },
+      {
+        "job": "WAR",
+        "weight": 0.5
+      },
+      {
+        "job": "DRG",
+        "weight": 0.8
+      },
+      {
+        "job": "SAM",
+        "weight": 0.8
+      },
+      {
+        "job": "BLM",
+        "weight": 0.5
+      },
+      {
+        "job": "SMN",
+        "weight": 0.5
+      },
+      {
+        "job": "SCH",
+        "weight": 0.5
+      },
+      {
+        "job": "SGE",
+        "weight": 0.5
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Aluny",
+    "jobs": [
+      {
+        "job": "PLD",
+        "weight": 0.2
+      },
+      {
+        "job": "DRG",
+        "weight": 0.5
+      },
+      {
+        "job": "RPR",
+        "weight": 1
+      },
+      {
+        "job": "DNC",
+        "weight": 0.8
+      },
+      {
+        "job": "SCH",
+        "weight": 0.5
+      },
+      {
+        "job": "SGE",
+        "weight": 1
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Walker",
+    "jobs": [
+      {
+        "job": "DRK",
+        "weight": 0.5
+      },
+      {
+        "job": "GNB",
+        "weight": 0.8
+      },
+      {
+        "job": "DRG",
+        "weight": 1
+      },
+      {
+        "job": "NIN",
+        "weight": 0.7
+      },
+      {
+        "job": "RPR",
+        "weight": 0.8
+      },
+      {
+        "job": "SAM",
+        "weight": 0.8
+      },
+      {
+        "job": "DNC",
+        "weight": 1
+      },
+      {
+        "job": "MCH",
+        "weight": 1
+      },
+      {
+        "job": "BLM",
+        "weight": 0.8
+      },
+      {
+        "job": "RDM",
+        "weight": 0.6
+      },
+      {
+        "job": "SMN",
+        "weight": 0.7
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Yin",
+    "jobs": [
+      {
+        "job": "MCH",
+        "weight": 1
+      },
+      {
+        "job": "RDM",
+        "weight": 0.5
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Medy",
+    "jobs": [
+      {
+        "job": "SMN",
+        "weight": 1
+      },
+      {
+        "job": "RDM",
+        "weight": 0.8
+      },
+      {
+        "job": "WHM",
+        "weight": 0.8
+      }
+    ],
+    "available": false
+  },
+  {
+    "name": "Rhiki",
+    "jobs": [
+      {
+        "job": "WHM",
+        "weight": 1
+      },
+      {
+        "job": "BRD",
+        "weight": 0.5
+      },
+      {
+        "job": "BLM",
+        "weight": 0.2
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Tal",
+    "jobs": [
+      {
+        "job": "WAR",
+        "weight": 0.5
+      },
+      {
+        "job": "MNK",
+        "weight": 1
+      },
+      {
+        "job": "BLM",
+        "weight": 0.1
+      },
+      {
+        "job": "AST",
+        "weight": 0.4
+      },
+      {
+        "job": "WHM",
+        "weight": 0.7
+      },
+      {
+        "job": "SGE",
+        "weight": 1
+      }
+    ],
+    "available": true
+  }
+]

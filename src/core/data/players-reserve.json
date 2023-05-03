@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Ray",
+    "jobs": [
+      {
+        "job": "WAR",
+        "weight": 0.1
+      },
+      {
+        "job": "RPR",
+        "weight": 1
+      },
+      {
+        "job": "BRD",
+        "weight": 0.9
+      },
+      {
+        "job": "DNC",
+        "weight": 0.7
+      },
+      {
+        "job": "RDM",
+        "weight": 0.8
+      },
+      {
+        "job": "SMN",
+        "weight": 0.7
+      },
+      {
+        "job": "WHM",
+        "weight": 1
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Kiyo",
+    "jobs": [
+      {
+        "job": "PLD",
+        "weight": 1
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Cyan",
+    "jobs": [
+      {
+        "job": "SCH",
+        "weight": 1
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Aneu",
+    "jobs": [
+      {
+        "job": "NIN",
+        "weight": 1
+      }
+    ],
+    "available": false
+  },
+  {
+    "name": "Boleslava",
+    "jobs": [
+      {
+        "job": "WHM",
+        "weight": 1
+      }
+    ],
+    "available": true
+  },
+  {
+    "name": "Tota",
+    "jobs": [
+      {
+        "job": "MNK",
+        "weight": 1
+      }
+    ],
+    "available": true
+  }
+]
