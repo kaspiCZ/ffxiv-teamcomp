@@ -2,9 +2,9 @@
  * Job lists and types
  */
 const tanks = ["DRK", "GNB", "PLD", "WAR"] as const
-const melee = ["DRG", "NIN", "MNK", "SAM", "RPR"] as const
+const melee = ["DRG", "NIN", "MNK", "SAM", "RPR", "VPR"] as const
 const physicalRange = ["BRD", "DNC", "MCH"] as const
-const magicalRange = ["BLM", "RDM", "SMN"] as const
+const magicalRange = ["BLM", "RDM", "PCT", "SMN"] as const
 const pureHealer = ["AST", "WHM"] as const
 const shieldHealer = ["SCH", "SGE"] as const
 
